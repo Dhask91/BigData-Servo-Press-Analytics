@@ -93,6 +93,12 @@ Apache Hadoop HDFS
 | Tiempo promedio (s) | 23.49 |
 | Displacement promedio (mm) | 173.21 |
 
+## Resultados
+
+La arquitectura Big Data propuesta permitió procesar y analizar registros provenientes de una servo-prensa de manufactura utilizando Apache Kafka, Apache Spark, PostgreSQL, Power BI y Apache Airflow.
+
+Se obtuvo una conformidad del 97.40 % y un porcentaje de scrap de 2.60 %, permitiendo validar la viabilidad de la solución para soportar futuros conjuntos de datos superiores al millón de registros.
+
 ---
 
 ## Beneficios esperados
